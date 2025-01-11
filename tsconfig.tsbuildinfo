@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/routes/coinsrouter.ts","./src/routes/deviationrouter.ts","./src/routes/statsrouter.ts"],"version":"5.6.3"}
